@@ -15,3 +15,6 @@ URL
 
 ### Autor:
 Alexander Martinez 
+
+### Status
+Finalizado en la version 1.0
